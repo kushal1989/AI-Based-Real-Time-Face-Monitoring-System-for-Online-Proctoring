@@ -122,7 +122,7 @@ Emerging markets such as **India, Southeast Asia, and the Middle East** show str
 
 ---
 
-## 7. Summary (Executive View)
+## 7. Summary
 
 The **AI-Based Real-Time Face Monitoring System for Online Proctoring** is a practical and cost-effective solution that:
 
